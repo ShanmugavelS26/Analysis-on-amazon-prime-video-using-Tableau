@@ -28,6 +28,6 @@ The visualizations and dashboards created in Tableau were exported as a packaged
 
 The exported packaged workbook was published to Tableau Server, making the reports and visualizations accessible to users via the web. This facilitated sharing and collaboration on the analysis findings.
 
-Tableau dashboard public link - 
+Tableau dashboard public link - https://public.tableau.com/views/Analysisonamazonprimevideos/Amazonvideoanalysisdashboard?:language=en-US&:display_count=n&:origin=viz_share_link
 
 Demo link - 
